@@ -1,0 +1,15 @@
+fastapi==0.143.5
+uvicorn[standard]==0.54.0
+httpx==0.28.1
+pydantic==2.14.1
+python-dotenv==1.2.4
+python-multipart==0.0.32
+cryptography==50.0.2
+openpyxl==3.1.5
+pypdf==6.20.1
+python-docx==1.2.0
+tzdata==2026.5
+
+langid==1.1.6
+qrcode[pil]==8.2
+reportlab==5.0.1

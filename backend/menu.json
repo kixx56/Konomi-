@@ -1,0 +1,578 @@
+[
+  {
+    "id": "s1",
+    "name": "Rosół z kołdunami z gęsi",
+    "category": "soup",
+    "price": 31,
+    "weight": "350g",
+    "allergens": [
+      "gluten"
+    ],
+    "tags": [
+      "light",
+      "poultry",
+      "warming",
+      "hit",
+      "quick"
+    ],
+    "image": "https://sspark.genspark.ai/i/3Q6ZQ7DRaSDpoWjM?width=2560",
+    "desc": {
+      "ru": "Осветлённый бульон длительного томления с миниатюрными пельмешками из запечённого гуся.",
+      "en": "Slow-simmered clear broth with tiny dumplings of roast goose.",
+      "pl": "Klarowny rosół długo gotowany z małymi kołdunami z pieczonej gęsi."
+    },
+    "status": "published",
+    "available": true,
+    "allergens_verified": false,
+    "ingredients": "",
+    "details": "",
+    "source": {
+      "type": "seed",
+      "filename": "Konomi-main.zip / backend/menu.json",
+      "raw": {
+        "id": "s1",
+        "name": "Rosół z kołdunami z gęsi",
+        "category": "soup",
+        "price": 31,
+        "weight": "350g",
+        "allergens": [
+          "gluten"
+        ],
+        "tags": [
+          "light",
+          "poultry",
+          "warming",
+          "hit",
+          "quick"
+        ],
+        "image": "https://sspark.genspark.ai/i/3Q6ZQ7DRaSDpoWjM?width=2560",
+        "desc": {
+          "ru": "Осветлённый бульон длительного томления с миниатюрными пельмешками из запечённого гуся.",
+          "en": "Slow-simmered clear broth with tiny dumplings of roast goose.",
+          "pl": "Klarowny rosół długo gotowany z małymi kołdunami z pieczonej gęsi."
+        },
+        "status": "published",
+        "available": true,
+        "allergens_verified": false,
+        "ingredients": "",
+        "details": ""
+      }
+    }
+  },
+  {
+    "id": "s2",
+    "name": "Żurek tradycyjny",
+    "category": "soup",
+    "price": 32,
+    "weight": "350g",
+    "allergens": [
+      "gluten",
+      "pork",
+      "lactose"
+    ],
+    "tags": [
+      "hearty",
+      "traditional",
+      "sour",
+      "hit",
+      "warming"
+    ],
+    "image": "",
+    "desc": {
+      "ru": "Ферментированный суп на ржаной закваске с белой колбасой, копчёным беконом и яйцом.",
+      "en": "Fermented sour-rye soup with white sausage, smoked bacon and egg.",
+      "pl": "Żurek na zakwasie żytnim z białą kiełbasą, wędzonym boczkiem i jajkiem."
+    },
+    "status": "published",
+    "available": true,
+    "allergens_verified": false,
+    "ingredients": "",
+    "details": "",
+    "source": {
+      "type": "seed",
+      "filename": "Konomi-main.zip / backend/menu.json",
+      "raw": {
+        "id": "s2",
+        "name": "Żurek tradycyjny",
+        "category": "soup",
+        "price": 32,
+        "weight": "350g",
+        "allergens": [
+          "gluten",
+          "pork",
+          "lactose"
+        ],
+        "tags": [
+          "hearty",
+          "traditional",
+          "sour",
+          "hit",
+          "warming"
+        ],
+        "image": "https://sspark.genspark.ai/i/SbvwrdIZRfAy7iz6?width=2560",
+        "desc": {
+          "ru": "Ферментированный суп на ржаной закваске с белой колбасой, копчёным беконом и яйцом.",
+          "en": "Fermented sour-rye soup with white sausage, smoked bacon and egg.",
+          "pl": "Żurek na zakwasie żytnim z białą kiełbasą, wędzonym boczkiem i jajkiem."
+        },
+        "status": "published",
+        "available": true,
+        "allergens_verified": false,
+        "ingredients": "",
+        "details": ""
+      }
+    }
+  },
+  {
+    "id": "s3",
+    "name": "Kwaśnica na wędzonce",
+    "category": "soup",
+    "price": 32,
+    "weight": "450g",
+    "allergens": [
+      "pork"
+    ],
+    "tags": [
+      "sour",
+      "warming",
+      "heavy"
+    ],
+    "image": "https://sspark.genspark.ai/i/zAYAGjWpUHFr5WWO?width=2560",
+    "desc": {
+      "ru": "Горский суп на квашеной капусте с копчёным беконом и картофельным пражухом.",
+      "en": "Highlander sauerkraut soup with smoked bacon and potato pancake crumble.",
+      "pl": "Góralska zupa na kiszonej kapuście z wędzonym boczkiem i prażuchem."
+    },
+    "status": "published",
+    "available": true,
+    "allergens_verified": false,
+    "ingredients": "",
+    "details": "",
+    "source": {
+      "type": "seed",
+      "filename": "Konomi-main.zip / backend/menu.json",
+      "raw": {
+        "id": "s3",
+        "name": "Kwaśnica na wędzonce",
+        "category": "soup",
+        "price": 32,
+        "weight": "450g",
+        "allergens": [
+          "pork"
+        ],
+        "tags": [
+          "sour",
+          "warming",
+          "heavy"
+        ],
+        "image": "https://sspark.genspark.ai/i/zAYAGjWpUHFr5WWO?width=2560",
+        "desc": {
+          "ru": "Горский суп на квашеной капусте с копчёным беконом и картофельным пражухом.",
+          "en": "Highlander sauerkraut soup with smoked bacon and potato pancake crumble.",
+          "pl": "Góralska zupa na kiszonej kapuście z wędzonym boczkiem i prażuchem."
+        },
+        "status": "published",
+        "available": true,
+        "allergens_verified": false,
+        "ingredients": "",
+        "details": ""
+      }
+    }
+  },
+  {
+    "id": "m1",
+    "name": "Golonka pieczona w piwie i miodzie",
+    "category": "main",
+    "price": 77,
+    "weight": "950g",
+    "allergens": [
+      "gluten",
+      "pork"
+    ],
+    "tags": [
+      "heavy",
+      "meat",
+      "beer",
+      "hit"
+    ],
+    "image": "",
+    "desc": {
+      "ru": "Свиная рулька, томлёная в тёмном пиве и мёде, с хреновым пюре и тушёной капустой.",
+      "en": "Pork knuckle slow-roasted in dark beer and honey, with horseradish mash and braised cabbage.",
+      "pl": "Golonka pieczona w ciemnym piwie i miodzie, z puree z chrzanu i duszoną kapustą."
+    },
+    "status": "published",
+    "available": true,
+    "allergens_verified": false,
+    "ingredients": "",
+    "details": "",
+    "source": {
+      "type": "seed",
+      "filename": "Konomi-main.zip / backend/menu.json",
+      "raw": {
+        "id": "m1",
+        "name": "Golonka pieczona w piwie i miodzie",
+        "category": "main",
+        "price": 77,
+        "weight": "950g",
+        "allergens": [
+          "gluten",
+          "pork"
+        ],
+        "tags": [
+          "heavy",
+          "meat",
+          "beer",
+          "hit"
+        ],
+        "image": "https://sspark.genspark.ai/i/JnaKQR5hwpqTUwbM?width=2560",
+        "desc": {
+          "ru": "Свиная рулька, томлёная в тёмном пиве и мёде, с хреновым пюре и тушёной капустой.",
+          "en": "Pork knuckle slow-roasted in dark beer and honey, with horseradish mash and braised cabbage.",
+          "pl": "Golonka pieczona w ciemnym piwie i miodzie, z puree z chrzanu i duszoną kapustą."
+        },
+        "status": "published",
+        "available": true,
+        "allergens_verified": false,
+        "ingredients": "",
+        "details": ""
+      }
+    }
+  },
+  {
+    "id": "m2",
+    "name": "Pieczona kaczka z sosem śliwkowym",
+    "category": "main",
+    "price": 99,
+    "weight": "1150g",
+    "allergens": [
+      "gluten"
+    ],
+    "tags": [
+      "signature",
+      "poultry",
+      "sweet-tart",
+      "hit"
+    ],
+    "image": "https://sspark.genspark.ai/i/S3x5rOm6BJDIjSgW?width=2560",
+    "desc": {
+      "ru": "Половина сочной утки под сливовым соусом с чесночными ньокки и свеклой.",
+      "en": "Half a juicy roast duck under plum sauce, with garlic gnocchi and beetroot.",
+      "pl": "Połowa soczystej pieczonej kaczki z sosem śliwkowym, gnocchi czosnkowymi i burakami."
+    },
+    "status": "published",
+    "available": true,
+    "allergens_verified": false,
+    "ingredients": "",
+    "details": "",
+    "source": {
+      "type": "seed",
+      "filename": "Konomi-main.zip / backend/menu.json",
+      "raw": {
+        "id": "m2",
+        "name": "Pieczona kaczka z sosem śliwkowym",
+        "category": "main",
+        "price": 99,
+        "weight": "1150g",
+        "allergens": [
+          "gluten"
+        ],
+        "tags": [
+          "signature",
+          "poultry",
+          "sweet-tart",
+          "hit"
+        ],
+        "image": "https://sspark.genspark.ai/i/S3x5rOm6BJDIjSgW?width=2560",
+        "desc": {
+          "ru": "Половина сочной утки под сливовым соусом с чесночными ньокки и свеклой.",
+          "en": "Half a juicy roast duck under plum sauce, with garlic gnocchi and beetroot.",
+          "pl": "Połowa soczystej pieczonej kaczki z sosem śliwkowym, gnocchi czosnkowymi i burakami."
+        },
+        "status": "published",
+        "available": true,
+        "allergens_verified": false,
+        "ingredients": "",
+        "details": ""
+      }
+    }
+  },
+  {
+    "id": "m3",
+    "name": "Gęsia wątróbka z wiśniami",
+    "category": "main",
+    "price": 62,
+    "weight": "490g",
+    "allergens": [],
+    "tags": [
+      "delicate",
+      "poultry",
+      "tart",
+      "quick"
+    ],
+    "image": "https://sspark.genspark.ai/i/tQpycTcpzLdHzWQS?width=2560",
+    "desc": {
+      "ru": "Нежная гусиная печень с вишнёвым соусом, карамелизированным яблоком и жареными копытками.",
+      "en": "Delicate goose liver with cherry sauce, caramelised apple and fried potato dumplings.",
+      "pl": "Delikatna wątróbka gęsia z sosem wiśniowym, karmelizowanym jabłkiem i kopytkami."
+    },
+    "status": "published",
+    "available": true,
+    "allergens_verified": false,
+    "ingredients": "",
+    "details": "",
+    "source": {
+      "type": "seed",
+      "filename": "Konomi-main.zip / backend/menu.json",
+      "raw": {
+        "id": "m3",
+        "name": "Gęsia wątróbka z wiśniami",
+        "category": "main",
+        "price": 62,
+        "weight": "490g",
+        "allergens": [],
+        "tags": [
+          "delicate",
+          "poultry",
+          "tart",
+          "quick"
+        ],
+        "image": "https://sspark.genspark.ai/i/tQpycTcpzLdHzWQS?width=2560",
+        "desc": {
+          "ru": "Нежная гусиная печень с вишнёвым соусом, карамелизированным яблоком и жареными копытками.",
+          "en": "Delicate goose liver with cherry sauce, caramelised apple and fried potato dumplings.",
+          "pl": "Delikatna wątróbka gęsia z sosem wiśniowym, karmelizowanym jabłkiem i kopytkami."
+        },
+        "status": "published",
+        "available": true,
+        "allergens_verified": false,
+        "ingredients": "",
+        "details": ""
+      }
+    }
+  },
+  {
+    "id": "m4",
+    "name": "Kartacze z mięsem (2 szt.)",
+    "category": "main",
+    "price": 54,
+    "weight": "700g",
+    "allergens": [
+      "pork",
+      "gluten"
+    ],
+    "tags": [
+      "heavy",
+      "traditional",
+      "potatoes"
+    ],
+    "image": "https://sspark.genspark.ai/i/GYTtQLrm1BWygjMZ?width=2560",
+    "desc": {
+      "ru": "Крупные картофельные клёцки с мясным фаршем и тушёной капустой со шкварками.",
+      "en": "Large potato dumplings stuffed with minced meat, with braised cabbage and cracklings.",
+      "pl": "Duże kluski ziemniaczane z farszem mięsnym, z duszoną kapustą i skwarkami."
+    },
+    "status": "published",
+    "available": true,
+    "allergens_verified": false,
+    "ingredients": "",
+    "details": "",
+    "source": {
+      "type": "seed",
+      "filename": "Konomi-main.zip / backend/menu.json",
+      "raw": {
+        "id": "m4",
+        "name": "Kartacze z mięsem (2 szt.)",
+        "category": "main",
+        "price": 54,
+        "weight": "700g",
+        "allergens": [
+          "pork",
+          "gluten"
+        ],
+        "tags": [
+          "heavy",
+          "traditional",
+          "potatoes"
+        ],
+        "image": "https://sspark.genspark.ai/i/GYTtQLrm1BWygjMZ?width=2560",
+        "desc": {
+          "ru": "Крупные картофельные клёцки с мясным фаршем и тушёной капустой со шкварками.",
+          "en": "Large potato dumplings stuffed with minced meat, with braised cabbage and cracklings.",
+          "pl": "Duże kluski ziemniaczane z farszem mięsnym, z duszoną kapustą i skwarkami."
+        },
+        "status": "published",
+        "available": true,
+        "allergens_verified": false,
+        "ingredients": "",
+        "details": ""
+      }
+    }
+  },
+  {
+    "id": "m5",
+    "name": "Pstrąg tęczowy smażony",
+    "category": "main",
+    "price": 71,
+    "weight": "650g",
+    "allergens": [],
+    "tags": [
+      "fish",
+      "light",
+      "gluten-free",
+      "quick"
+    ],
+    "image": "https://sspark.genspark.ai/i/UAhEh0oCTPItQmRn?width=2560",
+    "desc": {
+      "ru": "Свежая речная форель на травах с печёным картофелем и маринованной редиской.",
+      "en": "Fresh river trout with herbs, baked potato and pickled radish.",
+      "pl": "Świeży pstrąg na ziołach z pieczonym ziemniakiem i marynowaną rzodkiewką."
+    },
+    "status": "published",
+    "available": true,
+    "allergens_verified": false,
+    "ingredients": "",
+    "details": "",
+    "source": {
+      "type": "seed",
+      "filename": "Konomi-main.zip / backend/menu.json",
+      "raw": {
+        "id": "m5",
+        "name": "Pstrąg tęczowy smażony",
+        "category": "main",
+        "price": 71,
+        "weight": "650g",
+        "allergens": [],
+        "tags": [
+          "fish",
+          "light",
+          "gluten-free",
+          "quick"
+        ],
+        "image": "https://sspark.genspark.ai/i/UAhEh0oCTPItQmRn?width=2560",
+        "desc": {
+          "ru": "Свежая речная форель на травах с печёным картофелем и маринованной редиской.",
+          "en": "Fresh river trout with herbs, baked potato and pickled radish.",
+          "pl": "Świeży pstrąg na ziołach z pieczonym ziemniakiem i marynowaną rzodkiewką."
+        },
+        "status": "published",
+        "available": true,
+        "allergens_verified": false,
+        "ingredients": "",
+        "details": ""
+      }
+    }
+  },
+  {
+    "id": "b1",
+    "name": "Domowy kompot z rokitnika i malin",
+    "category": "beverage",
+    "price": 16,
+    "weight": "300ml",
+    "allergens": [],
+    "tags": [
+      "refreshing",
+      "sour",
+      "no-gas",
+      "quick"
+    ],
+    "image": "https://sspark.genspark.ai/i/536xGfVfKUDdAOXs?width=2560",
+    "desc": {
+      "ru": "Освежающий морс без газа с натуральной ягодной кислинкой облепихи и малины.",
+      "en": "Refreshing still fruit drink with natural sea-buckthorn and raspberry tartness.",
+      "pl": "Orzeźwiający domowy kompot bez gazu z rokitnikiem i malinami."
+    },
+    "status": "published",
+    "available": true,
+    "allergens_verified": false,
+    "ingredients": "",
+    "details": "",
+    "source": {
+      "type": "seed",
+      "filename": "Konomi-main.zip / backend/menu.json",
+      "raw": {
+        "id": "b1",
+        "name": "Domowy kompot z rokitnika i malin",
+        "category": "beverage",
+        "price": 16,
+        "weight": "300ml",
+        "allergens": [],
+        "tags": [
+          "refreshing",
+          "sour",
+          "no-gas",
+          "quick"
+        ],
+        "image": "https://sspark.genspark.ai/i/536xGfVfKUDdAOXs?width=2560",
+        "desc": {
+          "ru": "Освежающий морс без газа с натуральной ягодной кислинкой облепихи и малины.",
+          "en": "Refreshing still fruit drink with natural sea-buckthorn and raspberry tartness.",
+          "pl": "Orzeźwiający domowy kompot bez gazu z rokitnikiem i malinami."
+        },
+        "status": "published",
+        "available": true,
+        "allergens_verified": false,
+        "ingredients": "",
+        "details": ""
+      }
+    }
+  },
+  {
+    "id": "d1",
+    "name": "Tort z rokitnikiem",
+    "category": "dessert",
+    "price": 29,
+    "weight": "260g",
+    "allergens": [
+      "lactose",
+      "gluten"
+    ],
+    "tags": [
+      "dessert",
+      "palate-cleanser",
+      "hit"
+    ],
+    "image": "https://sspark.genspark.ai/i/BaBJSrTAUEehjsie?width=2560",
+    "desc": {
+      "ru": "Нежный торт с облепиховым курдом и белым шоколадом. Освежает после сытного мяса.",
+      "en": "Silky cake with sea-buckthorn curd and white chocolate. A bright finish after rich meat.",
+      "pl": "Delikatny tort z kurdem z rokitnika i białą czekoladą."
+    },
+    "status": "published",
+    "available": true,
+    "allergens_verified": false,
+    "ingredients": "",
+    "details": "",
+    "source": {
+      "type": "seed",
+      "filename": "Konomi-main.zip / backend/menu.json",
+      "raw": {
+        "id": "d1",
+        "name": "Tort z rokitnikiem",
+        "category": "dessert",
+        "price": 29,
+        "weight": "260g",
+        "allergens": [
+          "lactose",
+          "gluten"
+        ],
+        "tags": [
+          "dessert",
+          "palate-cleanser",
+          "hit"
+        ],
+        "image": "https://sspark.genspark.ai/i/BaBJSrTAUEehjsie?width=2560",
+        "desc": {
+          "ru": "Нежный торт с облепиховым курдом и белым шоколадом. Освежает после сытного мяса.",
+          "en": "Silky cake with sea-buckthorn curd and white chocolate. A bright finish after rich meat.",
+          "pl": "Delikatny tort z kurdem z rokitnika i białą czekoladą."
+        },
+        "status": "published",
+        "available": true,
+        "allergens_verified": false,
+        "ingredients": "",
+        "details": ""
+      }
+    }
+  }
+]

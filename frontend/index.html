@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#0f1115"><title>Konomi AI — Restaurant</title><link rel="stylesheet" href="/style.css?v=6.0.0"><script src="/shared.js?v=6.0.0" defer></script><script src="/app.js?v=6.0.0" defer></script></head>
+<body>
+<header class="appbar"><div class="appbar-inner">
+<a href="/" class="brand" aria-label="Konomi AI"><span class="brand-word">Konomi</span><span class="brand-ai">AI</span></a>
+<div class="venue"><span id="venue">Restaurant</span><span class="table-context hidden" id="tableContext"></span></div>
+<div class="appbar-right"><div class="weather" id="weather" aria-label="Погода в Лодзи"></div><nav class="langs" aria-label="Language"><button data-lang="pl">PL</button><button data-lang="en">EN</button><button data-lang="ru" class="active">RU</button></nav></div>
+</div></header>
+<main class="catalog"><div class="catalog-title"><h1 id="menuTitle">Меню</h1><span id="dishCount"></span></div>
+<nav class="tabs" id="tabs" aria-label="Категории"></nav><div class="filters" id="filters"></div>
+<div class="diet-bar hidden" id="dietBar"><span id="dietText"></span><button class="text-btn" id="clearDiet">Сбросить</button></div>
+<div id="loadStatus" class="state-banner">Загружаем меню ресторана…</div><div class="dish-grid" id="menuGrid"></div><p class="empty hidden" id="empty"></p>
+</main>
+<section class="sheet glass" id="sheet" aria-label="Чат Konomi AI" aria-hidden="true"><button class="sheet-handle" id="grab" aria-label="Свернуть чат"><span></span></button><div class="sheet-header"><div><h2>Konomi <span style="color:var(--lime)">AI</span></h2><div class="subtle" id="engineLabel">Ваш проводник по меню</div></div><button class="icon-btn" id="closeChat" aria-label="Свернуть чат" data-icon="close"></button></div><div class="chat-messages" id="messages" role="log" aria-live="polite"></div><div class="quick-actions" id="quick"></div></section>
+<div class="guest-dock" id="dock">
+<button class="cart-bar hidden" id="cartOpen" aria-haspopup="dialog"><span class="cart-count" id="cartCount">0</span><span class="cart-summary"><span id="cartTotal">— PLN</span><span class="badge hit hidden" id="cartSaving"></span></span><span class="cart-cta" id="cartCta">Показать официанту</span></button>
+<form class="composer glass" id="composer"><button type="button" class="ai-toggle" id="toggleChat" aria-label="Открыть чат" aria-expanded="false" data-icon="chevron"></button><input type="text" id="messageInput" maxlength="2000" autocomplete="off" placeholder="Спросите Konomi AI про блюда или комбо…" aria-label="Сообщение сомелье"><button type="button" class="mic" id="mic" aria-label="Голосовой ввод" data-icon="mic"></button><button class="send" id="send" aria-label="Отправить" data-icon="arrow"></button></form>
+</div>
+<dialog id="cartDialog"><div class="dialog-head"><h2 id="cartTitle">Ваш заказ</h2><button class="icon-btn" data-close="cartDialog" aria-label="Закрыть корзину" data-icon="close"></button></div><div id="cartItems"></div><div class="inline-status" id="cartStatus" role="status"></div><div class="total-row"><span id="totalLabel">Итого</span><span id="dialogTotal">—</span></div><div class="dialog-actions"><button class="primary lime" id="checkout">Сформировать чек</button><button class="secondary" id="clearCart">Очистить</button></div><p class="small subtle" id="checkNotice">Чек для показа официанту. Он не отправляет заказ на кухню автоматически.</p></dialog>
+<dialog id="receiptDialog"><div class="dialog-head"><h2 id="receiptTitle">Чек гостя</h2><button class="icon-btn" data-close="receiptDialog" aria-label="Закрыть чек" data-icon="close"></button></div><div id="receipt"></div></dialog>
+<noscript><p class="state-banner">Для работы меню включите JavaScript.</p></noscript>
+<script src="/service-guest.js?v=6.0.0" defer></script></body></html>

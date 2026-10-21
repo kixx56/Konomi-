@@ -1,0 +1,15 @@
+{
+  "checks": [
+    "Menu loads from API",
+    "Cart above chat, accessible checkout, real stored guest check",
+    "Combo added, server total includes full-price individual dish",
+    "Admin login with HttpOnly cookie",
+    "Editor persists dish details without losing provenance",
+    "CSV preview, field mapping, draft commit in browser",
+    "Settings save without exposing API key",
+    "390px mobile: logo intact, no overflow, cart clickable with open chat",
+    "Mobile admin fits viewport",
+    "320px compact guest layout"
+  ],
+  "javascript_errors": []
+}

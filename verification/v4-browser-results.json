@@ -1,0 +1,10 @@
+{
+  "checks": [
+    "500ms onboarding opens without input focus; input 16px; QR table visible",
+    "RU UI / German guest => German reply; PL UI switch preserves chat; English guest => English",
+    "Main dish triggers optional AI message; decline adds nothing and stops further offers",
+    "Accept adds real item once; reload keeps it; table number survives into guest check",
+    "Admin generates 30 table URLs and downloads a real print PDF; form inputs 16px"
+  ],
+  "javascript_errors": []
+}

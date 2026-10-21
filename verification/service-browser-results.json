@@ -1,0 +1,11 @@
+{
+  "checks": [
+    "PL interface / Russian soup request => Russian response and only soup cards",
+    "Guest creates a real pending check; board receives it; pending is not revenue",
+    "Wrong PIN rejected; staff PIN approves guest receipt and updates the kitchen",
+    "Ready → completed is persisted; confirmed/completed totals and funnel are exact",
+    "History filters table correctly; CSV download contains the confirmed sale",
+    "320/390px staff screens fit; reload restores a protected guest receipt"
+  ],
+  "javascript_errors": []
+}

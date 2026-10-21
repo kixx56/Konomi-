@@ -1,0 +1,24 @@
+services:
+  konomi:
+    build: .
+    ports:
+      - "${BIND_HOST:-127.0.0.1}:${HOST_PORT:-8000}:${PORT:-8000}"
+    environment:
+      PORT: "${PORT:-8000}"
+      APP_ENV: "${APP_ENV:-development}"
+      ADMIN_USERNAME: "${ADMIN_USERNAME:-admin}"
+      ADMIN_PASSWORD: "${ADMIN_PASSWORD:-}"
+      COOKIE_SECURE: "${COOKIE_SECURE:-false}"
+      KONOMI_DATA_DIR: "/data"
+      ALLOWED_ORIGINS: "${ALLOWED_ORIGINS:-http://localhost:8000,http://127.0.0.1:8000}"
+    volumes:
+      - konomi_data:/data
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "python", "-c", "import os,urllib.request; urllib.request.urlopen('http://127.0.0.1:'+os.environ.get('PORT','8000')+'/api/ready')"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 15s
+volumes:
+  konomi_data:

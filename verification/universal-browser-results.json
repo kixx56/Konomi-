@@ -1,0 +1,12 @@
+{
+  "checks": [
+    "Venue, tone and provider settings save in real admin; unverified recipes stay visible",
+    "All four soups rendered, with four usable add buttons and no verification gate",
+    "Natural-language add updates real cart quantities and server quote",
+    "Remove and clear execute through cart_actions, not just conversational promises",
+    "No-meat catalogue includes actual vegetarian choices and labelled fish, not empty handoff text",
+    "Delayed model action cannot overwrite a manual cart change; history and cart are sent",
+    "New universal controls and multi-card chat fit 320px and 390px viewports"
+  ],
+  "javascript_errors": []
+}
